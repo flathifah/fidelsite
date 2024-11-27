@@ -7,7 +7,7 @@ body
   background-image: url("background.jpeg");
   background-repeat: repeat-x;
   background-attachment: fixed;
-  background-color:#433D8B;
+  background-color:#fff8d2;
 }
 
 .fContainer {
@@ -25,7 +25,7 @@ body
   padding:15px;
   width: 100%;
   height: 80px;
-  background-color: #2E236C;
+  background-color: #ffffff;
   box-shadow: 0 7px 15px 0 rgba(0, 0, 0, 0.5);
 }
 
@@ -37,8 +37,8 @@ body
 }
 
 .fname {
-  font: copperplate, fantasy;
-  color: #E5D9F2;
+  font: Cooper-Black;
+  color: #fc18ab;
   font-weight: 700;
 }
 
@@ -61,7 +61,7 @@ body
 }
 
 .navigation>li>a {
-  color:white;
+  color:#fc18ab;
   font-size: 20px;
   text-decoration: none;
 }
